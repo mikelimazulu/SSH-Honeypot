@@ -1,3 +1,5 @@
+![SSH Honeypot](./logo.webp)
+
 # SSH Honeypot Data Analysis
 This repository is dedicated to the analysis and insights derived from data collected by our SSH Honeypot. It includes comprehensive analysis of IP addresses, usernames, passwords, login combinations, traffic patterns, and downloaded payloads by potential attackers. Our goal is to understand attack vectors, peak attack times, common credentials used by attackers, and overall trends in SSH-based threats.
 
