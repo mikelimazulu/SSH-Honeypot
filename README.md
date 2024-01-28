@@ -38,6 +38,9 @@ The analysis focuses on various aspects:
 - `/visualization`: Graphs, charts, and other visual aids.
 - `README.md`: Overview and instructions.
 
+## Contributors
+Thanks to @eric1194 for the hosting and infra security.
+
 ## DISCLAIMER
 Usage of the data in this repository for attacking targets without prior mutual consent is illegal. It's your responsibility to obey applicable local, state and federal laws.
 We group assume no liability and are not responsible for any misuse or damage caused by using the data.
